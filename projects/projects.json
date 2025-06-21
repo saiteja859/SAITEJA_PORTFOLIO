@@ -23,7 +23,7 @@
   {
     "name": "AI Volume Controller",
     "desc": "This project is an AI-based system that controls the volume of a device using hand gestures..",
-    "image": "ai.jpeg",
+    "image": "ai",
     "category": "mern",
     "links": {
       "view": "https://github.com/saiteja859/Touchless_controller.git",
