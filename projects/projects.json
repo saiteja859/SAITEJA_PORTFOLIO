@@ -1,33 +1,33 @@
-[
+// [
   
-  {
-    "name": "Equipment Retal System",
-    "desc": "An equipment rental system is a platform that facilitates the renting of equipment by connecting owners with renters.",
-    "image": "instagrammern",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/saiteja859/equipment-rental-main.git",
-      "code": "https://github.com/saiteja859/equipment-rental-main.git"
-    }
-  },
-  {
-    "name": "Easy Bookings",
-    "desc": "Easy Bookings is a rental property listing platform built using Express, MongoDB, JavaScript, and EJS.",
-    "image": "flipkartmern",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/saiteja859/EASYBOOKINGS.git",
-      "code": "https://github.com/saiteja859/EASYBOOKINGS.git"
-    }
-  },
-  {
-    "name": "AI Volume Controller",
-    "desc": "This project is an AI-based system that controls the volume of a device using hand gestures..",
-    "image": "ai",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/saiteja859/Touchless_controller.git",
-      "code": "https://github.com/saiteja859/Touchless_controller.git"
-    }
-  }
-]
+//   {
+//     "name": "Equipment Retal System",
+//     "desc": "An equipment rental system is a platform that facilitates the renting of equipment by connecting owners with renters.",
+//     "image": "instagrammern",
+//     "category": "mern",
+//     "links": {
+//       "view": "https://github.com/saiteja859/equipment-rental-main.git",
+//       "code": "https://github.com/saiteja859/equipment-rental-main.git"
+//     }
+//   },
+//   {
+//     "name": "Easy Bookings",
+//     "desc": "Easy Bookings is a rental property listing platform built using Express, MongoDB, JavaScript, and EJS.",
+//     "image": "flipkartmern",
+//     "category": "mern",
+//     "links": {
+//       "view": "https://github.com/saiteja859/EASYBOOKINGS.git",
+//       "code": "https://github.com/saiteja859/EASYBOOKINGS.git"
+//     }
+//   },
+//   {
+//     "name": "AI Volume Controller",
+//     "desc": "This project is an AI-based system that controls the volume of a device using hand gestures..",
+//     "image": "ai",
+//     "category": "mern",
+//     "links": {
+//       "view": "https://github.com/saiteja859/Touchless_controller.git",
+//       "code": "https://github.com/saiteja859/Touchless_controller.git"
+//     }
+//   }
+// ]
